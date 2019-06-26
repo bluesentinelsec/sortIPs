@@ -1,7 +1,8 @@
 # sortIPs
 A simple program to sort IP addresses
 
-Usage: sortIPs -i <input file>
+Usage: 
+<code>"sortIPs -i <input file>"</code>
 
 Example:
 $ ./sortIPs -i ips.txt 
